@@ -1,0 +1,13 @@
+{
+	"name": "gnosis",
+	"version": "0.0.1",
+	"description": "A modular http server/router that can be changed on the fly without breaking.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ConsciousCod/Gnosis/Gnosis.git"
+	},
+	"dependencies": {
+		"mime": "*"
+	}
+}
